@@ -3,7 +3,7 @@
 title: MD. Raihanul Islam
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'He/ Him'
 
 # Full name (for SEO)
 first_name: MD. Raihanul
